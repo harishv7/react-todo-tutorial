@@ -19,3 +19,11 @@
   background-color: white;
   border-radius: 7px;
 }
+
+.completed {
+  text-decoration: line-through;
+}
+
+.incomplete {
+  color: blue;
+}
